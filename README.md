@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Sales Analytics
 
 This project now includes a **data-engineering focused batch pipeline** for retail transactions.
@@ -40,3 +41,30 @@ retail-pipeline --input data/raw/sample_sales.csv --output-dir data
 ```bash
 python -m unittest discover -s tests
 ```
+=======
+📌 Problem Statement
+
+Retail businesses generate large volumes of transactional data but often lack structured analytical reporting to monitor KPIs such as revenue growth, customer retention, and product performance.
+
+This project performs end-to-end data analysis to:
+
+Identify revenue trends and seasonality
+
+Analyze customer purchasing behavior
+
+Evaluate product and regional performance
+
+Generate KPI dashboards for decision-making
+
+🎯 Objectives
+
+Perform comprehensive Exploratory Data Analysis (EDA)
+
+Build SQL-based analytical queries for KPI computation
+
+Conduct customer segmentation using RFM analysis
+
+Perform statistical testing on regional performance
+
+Develop interactive dashboard for executive reporting
+>>>>>>> d2b2a0b (Build power bi project)
