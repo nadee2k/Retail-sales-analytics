@@ -1,0 +1,8 @@
+order_id,order_date,store_id,product_id,category,quantity,unit_price
+1001,2026-01-05,S01,P10,Electronics,2,199.99
+1002,2026-01-08,S02,P21,Apparel,1,49.50
+1002,2026-01-08,S02,P21,Apparel,1,49.50
+1003,2026-01-08,S01,P11,Electronics,1,129.00
+1004,2026-01-09,S03,P33,Grocery,5,4.20
+1005,2026-01-10,S03,P40,Grocery,-1,7.10
+1006,2026-02-01,S01,P10,Electronics,1,199.99

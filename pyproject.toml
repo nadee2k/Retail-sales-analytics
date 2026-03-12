@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retail-sales-analytics"
+version = "0.1.0"
+description = "Retail sales analytics with a medallion-style data engineering pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+retail-pipeline = "retail_analytics.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
