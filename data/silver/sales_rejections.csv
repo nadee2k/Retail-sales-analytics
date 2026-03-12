@@ -1,0 +1,2 @@
+row_number,reason,order_id,order_date,store_id,product_id,category,quantity,unit_price
+7,quantity must be > 0,1005,2026-01-10,S03,P40,Grocery,-1,7.10

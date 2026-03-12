@@ -1,6 +1,15 @@
+<<<<<<< ours
 order_id,order_date,year_month,store_id,product_id,category,quantity,unit_price,revenue
 1001,2026-01-05,2026-01,S01,P10,electronics,2,199.99,399.98
 1002,2026-01-08,2026-01,S02,P21,apparel,1,49.50,49.50
 1003,2026-01-08,2026-01,S01,P11,electronics,1,129.00,129.00
 1004,2026-01-09,2026-01,S03,P33,grocery,5,4.20,21.00
 1006,2026-02-01,2026-02,S01,P10,electronics,1,199.99,199.99
+=======
+order_id,order_date,year_month,store_id,product_id,category,quantity,unit_price,revenue
+1001,2026-01-05,2026-01,S01,P10,electronics,2,199.99,399.98
+1002,2026-01-08,2026-01,S02,P21,apparel,1,49.50,49.50
+1003,2026-01-08,2026-01,S01,P11,electronics,1,129.00,129.00
+1004,2026-01-09,2026-01,S03,P33,grocery,5,4.20,21.00
+1006,2026-02-01,2026-02,S01,P10,electronics,1,199.99,199.99
+>>>>>>> theirs
